@@ -8,3 +8,4 @@ Route::get('/', function () {
 
 
 //hamdan programmer handal
+// padli
