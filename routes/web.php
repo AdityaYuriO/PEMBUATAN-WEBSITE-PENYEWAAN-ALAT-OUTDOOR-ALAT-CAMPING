@@ -12,7 +12,7 @@ Route::get('/', function () {
 
 //padli embe
 
-
+//mbe sayang farel
 
 
 //mejeh ey 
