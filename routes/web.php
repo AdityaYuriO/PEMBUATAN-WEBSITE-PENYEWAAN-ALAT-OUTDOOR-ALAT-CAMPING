@@ -41,3 +41,11 @@ Route::get('/', function () {
 
 
 //edy
+
+
+
+
+
+
+
+//nindy modol wae
