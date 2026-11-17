@@ -11,4 +11,8 @@ Route::get('/', function () {
 
 
 //padli embe
-//farel
+
+
+
+
+/ggggggggg
