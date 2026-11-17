@@ -22,3 +22,22 @@ Route::get('/', function () {
 
 
 //farel bau 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//edy
