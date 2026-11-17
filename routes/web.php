@@ -12,8 +12,7 @@ Route::get('/', function () {
 
 //padli embe
 
-
+//farel josjis
 
 
 //mejeh ey 
-//adit eee
